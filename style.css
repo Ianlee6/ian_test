@@ -1,0 +1,8 @@
+body {background-color: black;
+}
+h1 {color: cornsilk;}
+
+p {color: white; font-style: italic; font-family: Courier New;}
+
+a {color: teal; background-color: lightgoldenrodyellow; border-radius: 300px;
+border-color: grey; border-width: 1px}
